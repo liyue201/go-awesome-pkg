@@ -1,5 +1,5 @@
 # go-awesome-pkg
-收集能都快速提升go语言代码质量的实用工具包。
+收集能快速提升go语言代码质量的实用工具包。
 
 ### 并发同步
 - [errgroup](https://github.com/golang/sync/tree/master/errgroup) 执行并等待多个goroutine结束，并返回错误结果
